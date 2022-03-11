@@ -1,0 +1,24 @@
+{
+    "AD": {
+        "Computer": {
+            "Properties": [
+                "AllowReversiblePasswordEncryption",
+                "BadLogonCount",
+                "whenChanged",
+                "whenCreated",
+                "LastBadPasswordAttempt",
+                "LastLogonDate"
+            ]
+        },
+        "OrganizationalUnit": "",
+        "RestrictedGroup": [
+            ""
+        ]
+    },
+    "LicensedApplication": [
+        ""
+    ],
+    "DashboardName": "",
+    "UPNDomainSuffix": "",
+    "InternalDomainName": ""
+}

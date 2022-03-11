@@ -1,0 +1,1 @@
+﻿New-PSUVariable -Name "IntuneCredential" -Vault "BuiltInLocalVault" -Type "PSCredential" -Description "Credential to connect to MSOnline to search for Intune devices."

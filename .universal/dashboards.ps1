@@ -1,0 +1,1 @@
+﻿New-PSUDashboard -Name "Computer Information" -FilePath "dashboards\ComputerInformation\dashboard.ps1" -BaseUrl "/dashboard/computerinformation" -Framework "UniversalDashboard:Latest" -Environment "PowerShell" -Authenticated -SessionTimeout 0
