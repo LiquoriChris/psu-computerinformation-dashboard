@@ -1,0 +1,1 @@
+New-PSUEnvironment -Name 'PowerShell' -Path 'C:\Program Files\PowerShell\7\pwsh.exe' -Variables *
